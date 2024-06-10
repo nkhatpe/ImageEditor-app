@@ -56,10 +56,3 @@ The future scope of this application lies in the integration of a **green screen
 ## Conclusion
 
 The Image Editor Application demonstrates the integration of Tkinter and OpenCV libraries to create a user-friendly interface for image editing tasks. Through a combination of intuitive controls and powerful image processing capabilities, users can easily enhance and modify their images according to their preferences. This project serves as a valuable learning experience for understanding GUI development and image processing techniques in Python, making it suitable for independent study or as a basis for further exploration into advanced topics in computer vision and graphical interfaces.
-
----
-
-**Author:** Narendra Khatpe  
-**B-number:** B00984858  
-**Date:** May 9, 2024  
-**Advisor:** Professor Leslie Lander
